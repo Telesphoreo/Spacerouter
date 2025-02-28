@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+joblib
+requests
+openai
+torch
+transformers
+datasets
